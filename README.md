@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blogging website**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development*
 
 - 💬 Ask me about **React And FrontEnd Development**
 
